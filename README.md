@@ -1,7 +1,7 @@
 # Movie-Database-App---ANGULAR--IONIC--FIREBASE
 
-                     This Hybird app provides commercial BILLING functionality, along with PRODUCT AND STOCK MANAGEMENT. 
-                     The app can be used over the web, as well as deployed as a native app in both ANDROID AND IOS. 
+                     This Hybird app provides commercial BILLING functionality, along with PRODUCT AND STOCK MANAGEMENT.              
+                     The app can be used over the web, as well as deployed as a native app in both ANDROID AND IOS.                  
 This app is built on Angular-IONIC framework using Firebase CLoud Storage for the backend and User Authentication and Authorisation.
 
 
@@ -18,7 +18,7 @@ Tools Used:
     ** HTML 5.
     ** CSS 3.
     
-Fuinctionality:
+Functionality:
 ===============
    
     ** Commercial Billing.
