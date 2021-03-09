@@ -1,4 +1,4 @@
-# Movie-Database-App---ANGULAR--IONIC--FIREBASE
+# Hybrid Movie-Database-App---ANGULAR--IONIC--FIREBASE
 
                      This Hybird app provides commercial BILLING functionality, along with PRODUCT AND STOCK MANAGEMENT.              
                      The app can be used over the web, as well as deployed as a native app in both ANDROID AND IOS.                  
