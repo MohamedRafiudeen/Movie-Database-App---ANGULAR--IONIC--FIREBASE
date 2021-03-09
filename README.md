@@ -33,7 +33,7 @@ More to come:
     ** The app would be equipped with more site-security features at the time of demand.
 
 
-Author: copyrights:  ** Mohammed Rafiudeen S
+Author: copyrights:  Mohammed Rafiudeen S
 --------------------------------------------
 
 
